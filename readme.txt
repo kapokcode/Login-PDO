@@ -1,7 +1,9 @@
-ADMIN
-username: demo
-password: 123456
+# ระบบล็อคอิน php data opject
 
-USER
-username: test
-password: 123456
+## ADMIN
+- username: demo
+- password: 123456
+
+## USER
+- username: test
+- password: 123456
